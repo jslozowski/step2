@@ -1,1 +1,1 @@
-print("Cześć jestem Jeremi")
+print("Cześć jestem Jeremi Ślozowski")
